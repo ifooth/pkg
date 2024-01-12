@@ -1,3 +1,6 @@
+// Copyright (c) The IFOOTH Authors.
+// Licensed under the Apache License 2.0.
+
 package logger
 
 import (
